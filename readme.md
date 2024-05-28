@@ -19,4 +19,13 @@ this is itelic font
 
 this is bold style
 
+
+1. git clone 'url address'
+2. edit file, add file
+3. git add * or or git add file name : commited
+4. git status : check commited status
+5. git commit -m "massage":  massage about commit
+6. git push 
+
+
 **bold**
